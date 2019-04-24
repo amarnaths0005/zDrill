@@ -1,0 +1,129 @@
+/*
+HTML5 - JavaScript Complex Number Operations Drill, zdrill, Jan 2019
+    by Amarnath S, amarnaths.codeproject@gmail.com
+*/
+
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: #121212;
+    text-align: center;
+    min-width: 800;
+}
+
+.redtext {
+    color: red;
+}
+
+.container{
+    display: grid;
+    grid-gap: 1em;
+    grid-auto-rows: minmax(250px, auto);
+}
+
+.topdiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.bottomdiv {
+    display: grid;
+    grid-template-columns: 3fr 1fr 3fr;
+}
+
+.topLeft, .topMid, .topRight {
+    display:grid;
+}
+
+table.centre{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container > div {
+    background: #eeeeee;
+    padding: 1em;
+}
+
+.topdiv > div, .bottomdiv > div {
+    border: #333333 0px solid;
+}
+
+.redColour {
+    border:  red 2px solid;
+}
+
+.magentaColour {
+    border: magenta 2px solid;
+}
+
+.blueColour {
+    border: blue 2px solid;
+}
+
+h3.redText {
+    color: red;
+    text-decoration: underline;
+}
+
+h3.magentaText {
+    color: magenta;
+    text-decoration: underline;
+}
+
+h3.blueText {
+    color: blue;
+    text-decoration: underline;
+}
+
+.showAns, .newQuiz{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+canvas {
+    border: 2px solid navy;
+}
+
+td.redText {
+    color: red;
+    font-weight: bold;
+}
+
+td.blueText{
+    color: blue;
+    font-weight: bold;
+}
+
+td.magentaText {
+    color: magenta;
+    font-weight: bold;
+}
+
+td.greenText {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+td.blank {
+    visibility: hidden;
+}
+
+div.blank {
+    visibility: hidden;
+}
+
+span.blank {
+    visibility: hidden;
+}
+
+h3.blank {
+    visibility: hidden;
+}
+
+input.blank {
+    visibility: hidden;
+}
+
+div.gray {
+    color: #eeeeee;
+}
