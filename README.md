@@ -7,7 +7,7 @@ Functionality:
         thetas of these complex numbers on the screen, non-editable text boxes. </li>
    <li> Also display these complex numbers on the left graph, in red and magenta colours. </li>
    <li> Enable the user to select the operation - add, subtract, multiply, divide, 
-        invert and compute conjugate, and enter two magnitude and theta of the resulting 
+        invert and compute conjugate, and enter the magnitude and theta of the resulting 
         complex number. </li>
    <li> Display graphically the user-entered complex number in the right graph, in blue colour. </li>
    <li> Enable the user to see the rectangular components of the input and result complex 
