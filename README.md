@@ -26,6 +26,8 @@ Inspired by the Example Matlab Program in the book "Signal Processing First" by 
 
 Just download the repository, and open the file zDrill.html in your favorite browser. Have tested it on Chrome.
 
+Or, run this application at https://amarnaths0005.github.io/zDrill/
+
 Please report issues to me at amarnaths.codeproject@gmail.com
 
 ![Image of zDrill](https://github.com/amarnaths0005/zDrill/blob/master/zDrill/zDrill.png)
